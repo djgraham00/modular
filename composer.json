@@ -1,0 +1,12 @@
+{
+    "name": "graham/modular",
+    "description": "A modular php framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Drew Graham"
+        }
+    ],
+    "require": {}
+}

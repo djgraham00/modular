@@ -1,0 +1,19 @@
+# JetBrains IDE configuration
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# LLM/AI assistant configuration
+.agents/
+.aider*
+.claude/
+.codex/
+.continue/
+.cursor/
+.windsurf/
+AGENTS.md
+CLAUDE.md
+
+# Reference code directories (at any depth)
+.Reference_Code/
